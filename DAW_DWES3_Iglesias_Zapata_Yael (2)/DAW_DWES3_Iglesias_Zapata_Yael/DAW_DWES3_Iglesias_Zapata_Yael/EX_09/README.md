@@ -1,0 +1,1 @@
+El MD5(Message Digest Algorithm 5, Algoritmo de Ordenación de Mensajes 5) es un sistema de encriptación, al poner una palabra(String) te la convierte a un cumulo de letras y numeros indescifrables. 
