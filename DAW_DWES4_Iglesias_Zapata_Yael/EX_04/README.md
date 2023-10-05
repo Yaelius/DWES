@@ -1,0 +1,1 @@
+Este ejercicio incluye un trait "Loggable" con un metodo "log" para imprimir documentos con marca de tiempo. incluso incluye una categoría "artículo" que utiliza este trait para registrar un informe cada vez que se modifica el valor del producto.
