@@ -1,0 +1,2 @@
+##EJERCICIO 3:
+En este ejercicio se necesita a un usuario que ingrese su nombre de usuario en el formulario y presionar "Iniciar Sesión", al hacer esto se almacena en una variable de sesión. También se inicializa una variable para rastrear los puntos acumulados del usuario en 0 principalmente.

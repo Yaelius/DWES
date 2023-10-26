@@ -1,0 +1,2 @@
+##EJERCICIO 2:
+En este ejercicio tenenemos un ejemplo de un script PHP que demuestra cómo configurar cookies en respuesta a un formulario POST. Las cookies se utilizan para almacenar información del usuario, como el nombre de usuario y el idioma seleccionado, y se mantendrán durante 30 días.
